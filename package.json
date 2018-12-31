@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-app1",
+  "version": "1.0.0",
+  "description": "My first NodeJS and Git app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwadhwani/nodejs-app1.git"
+  },
+  "keywords": [
+    "node",
+    "git"
+  ],
+  "author": "Rajesh Wadhwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwadhwani/nodejs-app1/issues"
+  },
+  "homepage": "https://github.com/rwadhwani/nodejs-app1#readme"
+}
